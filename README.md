@@ -29,7 +29,7 @@ De esta forma el ejercicio solicita lo siguiente:
 
 Por ultimo como desafios adicionales el proyecto se debe subir a **GitHub**, crear este **README** y publicar el juego en ***pages***.
 
-### Link al proyecto: ***[Amigo Secreto by Charlie Chan](https://charlieh52.github.io/ONE-Alura/)***
+### Link al proyecto: ***[Amigo Secreto by Charlie Chan](https://charlieh52.github.io/one-amigo_secreto/)***
 
 De esta manera lo visto en los primeros 3 cursos se cubre de manera bastante amplia en un tiempo considerable, aunque en mi opinión podría ser diferente en algunas cuantas cosas, por lo demás como alguién que ya ha programado otras cosas más robustas, me parece bastante bueno hasta ahora ***27-07-2025*** este bootcamp.
 
