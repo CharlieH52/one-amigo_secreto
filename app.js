@@ -72,10 +72,16 @@ function generate_random_index() {
 }
 
 function sortearAmigo() {
+    let currentFriends = friendList.querySelectorAll("li");
     validFriends = friends.filter(friend => !oldWinners.includes(friend));
     if (validFriends.length >= 1) {
         let randomIndex = generate_random_index();
         let winner = validFriends[randomIndex];
+        for (let index = 0; index < currentFriends.length; index++) {
+            if (winner == currentFriends[index].innerText) {
+                currentFriends[index].style.background = "gray";
+            }
+        }
         update_winners(winner)
         result.innerText = `¡¡${winner}!!`;
     }
